@@ -1,0 +1,9 @@
+fieldset{
+	margin: 10px;
+	background-color: #D3D3D3;
+	width: 110%;
+}
+form {
+	display: float;
+	float: left;	
+}

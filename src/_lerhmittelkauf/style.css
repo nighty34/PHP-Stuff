@@ -1,0 +1,46 @@
+.main{
+	background-color: #D3D3D3;
+	padding: 20px;
+}
+body {
+	position: float;
+	padding: 0px;
+/*	margin: 20px;*/
+	width: 40em;
+	border-style: solid;
+	border-width: 1px;
+
+	text-align: left;
+	margin-left: calc(50vw - 20em);
+	
+}
+header{
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+	background-color: #BEBEBE;
+}
+
+h1 {
+	padding: 30px;
+	margin: 0;
+	text-align: center;
+	text-decoration: underline;
+}
+h2 {
+	margin-top: 0;
+}
+
+.cool{
+	background-color: #D3D3D3;
+}
+.cat{
+	border-style: solid;
+	border-width: 1px;
+	padding: 10px;
+	border-color: #BEBEBE;
+}
+.error{
+	color: red;
+}
